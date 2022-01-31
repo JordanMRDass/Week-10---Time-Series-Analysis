@@ -12,7 +12,7 @@ Assessing viability of using lagged returns as a predictor for present returns, 
 
 - Seperated data in to train and test, with train independent information being lagged returns and the dependent variable being present returns
 
-- Tested the model predictive ability in-sample performance and out-sample performance
+- Tested the model predictive ability in-sample performance and out-sample performance, that is testing on train and test data respectively.
 
 Time series analysis
 Used differing algorithms on the CAD-JPY price time-series from 1982 to 2020.
